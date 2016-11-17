@@ -42,7 +42,11 @@ namespace AdalToOneDrive
             
             HttpClient client = new HttpClient();
             HttpResponseMessage response = client.SendAsync(request).Result;
-            var content = response.Content;
+            var content = response.Content.ReadAsStringAsync().Result;
+
+            Console.Write(content);
+
+            Console.ReadLine();
 
             // разбираешь тут контент.. в нем должно быть:
 
