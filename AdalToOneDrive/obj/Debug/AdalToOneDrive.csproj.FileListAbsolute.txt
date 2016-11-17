@@ -1,0 +1,10 @@
+C:\Work\BMO\AdalToOneDrive\AdalToOneDrive\bin\Debug\AdalToOneDrive.exe.config
+C:\Work\BMO\AdalToOneDrive\AdalToOneDrive\obj\Debug\AdalToOneDrive.csprojResolveAssemblyReference.cache
+C:\Work\BMO\AdalToOneDrive\AdalToOneDrive\bin\Debug\AdalToOneDrive.exe
+C:\Work\BMO\AdalToOneDrive\AdalToOneDrive\bin\Debug\AdalToOneDrive.pdb
+C:\Work\BMO\AdalToOneDrive\AdalToOneDrive\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Work\BMO\AdalToOneDrive\AdalToOneDrive\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Work\BMO\AdalToOneDrive\AdalToOneDrive\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Work\BMO\AdalToOneDrive\AdalToOneDrive\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Work\BMO\AdalToOneDrive\AdalToOneDrive\obj\Debug\AdalToOneDrive.exe
+C:\Work\BMO\AdalToOneDrive\AdalToOneDrive\obj\Debug\AdalToOneDrive.pdb
